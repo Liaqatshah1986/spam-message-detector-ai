@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📩 Spam Message Detector AI
 
 An AI-powered spam message detector built using Machine Learning and NLP.
@@ -26,3 +27,7 @@ Achieved approximately 97% accuracy on real SMS spam dataset.
 
 ```bash
 streamlit run app.py
+=======
+# spam-message-detector-ai
+AI-powered spam message detector built using Python, Scikit-learn, and Streamlit.
+>>>>>>> f545d04a6b0ffe964657f3b9f9fb2b0b54247acd
